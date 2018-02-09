@@ -39,7 +39,9 @@ The themes are simply text files containing `xml`. More specifically, they are a
    3. Finally, the `hexColor` fields do not include a preceding `#`, as they would in an HTML document. `000000` is valid, whereas `#000000` is not.
    4. If you get stuck, simply prefix the `# import-theme` keyword with another `#`, to remove your custom theme.
 
+
 ###Having trouble? 
+
 
 Please check out the in-app documentation, or feel free ping me @ [macSequenceDiagram@mikeOsoft.co.uk](macSequenceDiagram@mikeOsoft.co.uk)
 
