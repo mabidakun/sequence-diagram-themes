@@ -6,7 +6,7 @@ This repository exists to enable users of
 Everything here is free to copy and use courtesy of the MIT license, so go ahead, clone away!
 
 
-###Having trouble with the themes? 
+##Having trouble with the themes? 
 
 Please check out the in-app documentation, or feel free ping me @ [macSequenceDiagram@mikeOsoft.co.uk](macSequenceDiagram@mikeOsoft.co.uk)
 
