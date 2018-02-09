@@ -40,7 +40,7 @@ The themes are simply text files containing `xml`. More specifically, they are a
    4. If you get stuck, simply prefix the `# import-theme` keyword with another `#`, to remove your custom theme.
 
 
-###Having trouble? 
+### Having trouble? 
 
 
 Please check out the in-app documentation, or feel free ping me @ [macSequenceDiagram@mikeOsoft.co.uk](macSequenceDiagram@mikeOsoft.co.uk)
